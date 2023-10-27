@@ -1,6 +1,6 @@
 {
   "name": "ai-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "oclif example Hello World CLI",
   "author": "Anurag Dhote @Anurag2293",
   "bin": {

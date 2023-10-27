@@ -21,7 +21,7 @@ $ npm install -g ai-cli
 $ ai-cli COMMAND
 running command...
 $ ai-cli (--version)
-ai-cli/1.0.0 win32-x64 node-v18.17.0
+ai-cli/2.0.0 win32-x64 node-v18.17.0
 $ ai-cli --help [COMMAND]
 USAGE
   $ ai-cli COMMAND
@@ -64,7 +64,7 @@ USAGE
   $ ai-cli create
 ```
 
-_See code: [dist/commands/create/index.ts](https://github.com/Anurag2293/ai-cli/blob/v1.0.0/dist/commands/create/index.ts)_
+_See code: [dist/commands/create/index.ts](https://github.com/Anurag2293/ai-cli/blob/v2.0.0/dist/commands/create/index.ts)_
 
 ## `ai-cli hello PERSON`
 
@@ -88,7 +88,7 @@ EXAMPLES
   hello friend from oclif! (./src/commands/hello/index.ts)
 ```
 
-_See code: [dist/commands/hello/index.ts](https://github.com/Anurag2293/ai-cli/blob/v1.0.0/dist/commands/hello/index.ts)_
+_See code: [dist/commands/hello/index.ts](https://github.com/Anurag2293/ai-cli/blob/v2.0.0/dist/commands/hello/index.ts)_
 
 ## `ai-cli hello world`
 
@@ -106,7 +106,7 @@ EXAMPLES
   hello world! (./src/commands/hello/world.ts)
 ```
 
-_See code: [dist/commands/hello/world.ts](https://github.com/Anurag2293/ai-cli/blob/v1.0.0/dist/commands/hello/world.ts)_
+_See code: [dist/commands/hello/world.ts](https://github.com/Anurag2293/ai-cli/blob/v2.0.0/dist/commands/hello/world.ts)_
 
 ## `ai-cli help [COMMANDS]`
 
@@ -143,7 +143,7 @@ DESCRIPTION
   Jarvis is a command to run the AI assistant CLI
 ```
 
-_See code: [dist/commands/jarvis/index.ts](https://github.com/Anurag2293/ai-cli/blob/v1.0.0/dist/commands/jarvis/index.ts)_
+_See code: [dist/commands/jarvis/index.ts](https://github.com/Anurag2293/ai-cli/blob/v2.0.0/dist/commands/jarvis/index.ts)_
 
 ## `ai-cli plugins`
 
